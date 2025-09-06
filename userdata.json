@@ -3,56 +3,56 @@
         "device_id": "5c4a2194b4847bdf",
         "username": "Admin1",
         "password": "Hacker123",
-        "expirydate": "6-9-2026",
+        "expirydate": "09-09-2026",
         "Allowoffline": true
     },
     {
         "device_id": "52bf68731f6dfedb",
         "username": "Arslandemo",
         "password": "demo",
-        "expirydate": "8-09-2025",
+        "expirydate": "08-09-2025",
         "Allowoffline": false
     }
     {
         "device_id": "bcfe7fbea3d4ea09",
         "username": "Hamza",
         "password": "Demo123",
-        "expirydate": "8-9-2026",
+        "expirydate": "08-09-2026",
         "Allowoffline": false
     },
     {
         "device_id": "72dfde6d80860c1c",
         "username": "Jamal",
         "password": "Jamaldemo",
-        "expirydate": "8-06-2025",
+        "expirydate": "08-06-2025",
         "Allowoffline": false
     }
     {
         "device_id": "5c4a2194b4847bdf",
         "username": "hhh",
         "password": "Hacker123",
-        "expirydate": "6-9-2026",
+        "expirydate": "06-09-2026",
         "Allowoffline": true
     },
     {
         "device_id": "e469cd28e6b0e3b8",
         "username": "Sahil",
         "password": "demo123",
-        "expirydate": "8-09-2025",
+        "expirydate": "08-09-2025",
         "Allowoffline": false
     }
     {
         "device_id": "bcfe7fbea3d4ea09",
         "username": "",
         "password": "Demo123",
-        "expirydate": "8-9-2026",
+        "expirydate": "08-09-2026",
         "Allowoffline": false
     },
     {
         "device_id": "72dfde6d80860c1c",
         "username": "",
         "password": "Jamaldemo",
-        "expirydate": "8-06-2025",
+        "expirydate": "08-06-2025",
         "Allowoffline": false
     }
 ]
